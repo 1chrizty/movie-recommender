@@ -7,14 +7,14 @@ It analyzes movie data and suggests similar movies based on user preferences and
 - Content-based movie recommendations  
 - Data preprocessing and analysis  
 - Similarity calculation using machine learning techniques  
-- Easy-to-run Jupyter Notebook
+- Easy-to-run Gogle Colab or Jupyter Notebook
 
 ## 🛠️ Technologies Used
 - Python  
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Jupyter Notebook  
+- Google Colab
 
 ## 📂 Project Structure
 - `movie_recommender.ipynb` — main notebook with implementation
