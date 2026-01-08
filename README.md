@@ -26,9 +26,11 @@ It analyzes movie data and suggests similar movies based on user preferences and
    cd movie-recommender
 
 2. Install dependencies:
+   ```bash
    pip install pandas numpy scikit-learn
 
 3. Run the notebook:
+   ```bash
    jupyter notebook movie_recommender.ipynb
 
 ## 🚀 Future Enhancements
@@ -38,3 +40,6 @@ It analyzes movie data and suggests similar movies based on user preferences and
 - Web-based interface
 - Improved recommendation accuracy
 
+## 👨‍💻 Author
+**Christy C Mathai**  
+Aspiring Data Analyst & Data Scientist | Python & Data Visualization Enthusiast
