@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-This project implements a basic **movie recommendation system** using Python.  
+This project implements a basic **movie recommendation system** using Python.
 It analyzes movie data and suggests similar movies based on user preferences and similarity calculations.
 
 ## 📌 Features
